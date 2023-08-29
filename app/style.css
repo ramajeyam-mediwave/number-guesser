@@ -1,3 +1,21 @@
 body {
     font-family: sans-serif;
+    font-size: x-large;
+    
+}
+
+button {
+    padding: 20px;
+    font-size: larger;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 650px;
+}
+
+#guessed-number {
+    margin: 20px;
+    font-size: xx-large;
+    background-color: blueviolet;
 }
